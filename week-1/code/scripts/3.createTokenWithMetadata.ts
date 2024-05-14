@@ -34,9 +34,9 @@ import {
     // define how many decimals we want our tokens to have
     decimals: 6,
     //
-    name: "Solana Bootcamp Summer 2024",
+    name: "Token mint",
     //
-    symbol: "SBS",
+    symbol: "TM",
     //
     uri: "https://raw.githubusercontent.com/trankhacvy/solana-bootcamp-summer-2024/main/assets/sbs-token.json",
   };
